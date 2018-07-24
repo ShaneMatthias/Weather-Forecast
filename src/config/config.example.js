@@ -1,3 +1,1 @@
-export default {
-    API_KEY: "place-key-here"
-};
+export const API_KEY = "place-key-here"
