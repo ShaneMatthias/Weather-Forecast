@@ -1,1 +1,2 @@
-const API_KEY = 'd7eb1fb400327291f52c1830bf6e35d4'
+import { API_KEY } from '../config/config'
+
